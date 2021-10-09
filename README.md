@@ -2,9 +2,9 @@
 
 - I'm Emillia-rosette and I'm a PhD student in Artificial Intelligence and I'm especially interested in the intersection of data science and social impact, in areas like traffic management and education.
 
-- Here on my GitHub profile, I share my research project on Traffic prediction where I aim to build a predictive data analysis model to support strategic decisions to help companies and transport managers optimise in real-time transport information such scheduling road works, passenger’s time and stops usage in London 📊 
+- 👾 Here on my GitHub profile, I share my research project on Traffic prediction where I aim to build a predictive data analysis model to support strategic decisions to help companies and transport managers optimise in real-time transport information such scheduling road works, passenger’s time and stops usage in London 📊 
 
-- I am also completing the CS50's Introduction to Artificial Intelligence with Python course by HarvardX and my projects to date can also be found in [my website portfolio](http://emillianlandu.com/). I also write on Medium 📝 and share my articles can be found in [Research gate](https://www.researchgate.net/profile/Emillia-Rosette-Nlandu-Nzinga/projects)
+- 👩‍🎓 I am also completing the CS50's Introduction to Artificial Intelligence with Python course by HarvardX and my projects to date can also be found in [my website portfolio](http://emillianlandu.com/). I also write on Medium 📝 and share my articles can be found in [Research gate](https://www.researchgate.net/profile/Emillia-Rosette-Nlandu-Nzinga/projects)
 
 <!--
 **Emillia-rosette/Emillia-rosette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
