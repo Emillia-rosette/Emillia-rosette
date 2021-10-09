@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Emillia-rosette and I'm a PhD student in Artificial Intelligence and aspiring Data Engineer with an interest in Traffic management 📊 and sustainability 🌍.
+I'm Emillia-rosette and I'm a PhD student in Artificial Intelligence and my research focuses on Traffic prediction which aims to build a predictive data analysis model to support strategic decisions to help companies and transport managers optimise in real-time transport information such scheduling road works, passenger’s time and stops usage in a smart city like London 📊 
+
 
 <!--
 **Emillia-rosette/Emillia-rosette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
