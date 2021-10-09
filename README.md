@@ -1,5 +1,6 @@
 ### Hi there 👋
-#########I'm Emillia-rosette and I'm a PhD student in Artificial Intelligence and aspiring Data Engineer with an interest in Traffic management 📊 and sustainability 🌍.
+
+I'm Emillia-rosette and I'm a PhD student in Artificial Intelligence and aspiring Data Engineer with an interest in Traffic management 📊 and sustainability 🌍.
 
 <!--
 **Emillia-rosette/Emillia-rosette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
