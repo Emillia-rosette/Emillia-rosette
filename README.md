@@ -1,4 +1,4 @@
-### Hello there 👋,
+### Hi there 👋,
 
 - 📚 I'm Emillia-rosette and I'm a PhD student in Artificial Intelligence and I'm especially interested in the intersection of data science and social impact, in areas like traffic management and education.
 
