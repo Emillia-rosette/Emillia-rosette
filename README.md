@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-- 📚 I'm Emillia-rosette and I'm a PhD student in Artificial Intelligence and I'm especially interested in the intersection of data science and social impact, in areas of traffic management and education.
+- 📚 I'm Emillia-rosette and I'm a PhD candidate in Artificial Intelligence and I'm especially interested in the intersection of data science and social impact, in areas of traffic management and education.
 
 - 👾 Here on my GitHub profile, I share [my research project](https://www.kingston.ac.uk/research/research-degrees/research-degree-students/profile/emillia-rosette-nlandu-nzinga-415/) on Traffic prediction where I aim to build a predictive data analysis model to support strategic decisions to help companies and transport managers optimise in real-time transport information such scheduling road works, passenger’s time and stops usage in London 📊 
 
