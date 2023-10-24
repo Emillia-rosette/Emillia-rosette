@@ -1,10 +1,10 @@
 ### Hi there 👋,
 
-- 📚 I'm Emillia-rosette and currently pursuing a PhD in Artificial Intelligence. My primary focus lies at the exciting intersection of data science and its potential to drive positive social impact, particularly in the domains of traffic management and education.
+I am Emillia-rosette Nlnadu, my friends call me Emillia (with two 'lls' 😊).  Let me take you on a deep dive into my tech journey up to this point: 
 
-- 👾 Here on my GitHub profile, I share [my research project](https://www.kingston.ac.uk/research/research-degrees/research-degree-students/profile/emillia-rosette-nlandu-nzinga-415/) on Traffic prediction where I aim to build a predictive data analysis model to support strategic decisions to help companies and transport managers optimise in real-time transport information such scheduling road works, passenger’s time and stops usage in London 📊 
+- 🚀 I've dedicated the first six years of my career to crafting innovative solutions, gaining expertise across software development, customer success & enterprise technical support engineering, and cloud platforms. 
 
-- 📝 My projects to date can also be found in [my website portfolio](http://emillianlandu.com/). I also write on Medium and my articles can be found in [Research gate](https://www.researchgate.net/profile/Emillia-Rosette-Nlandu-Nzinga/projects)
+- 🔍 I'm currently pursuing a PhD research degree in Artificial Intelligence at Kingston University with a focus on "Data-Driven Strategies for Urban Planning Coordination". The research looks into Traffic Prediction Optimization and roadwork Impact Assessment to enhance Traffic Prediction Accuracy, reduce Traffic Congestion and create a framework for assessing the impact of ongoing roadwork projects on traffic flow to foster collaboration between city departments and urban planning entities. 
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emillia-rosette&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
