@@ -10,9 +10,9 @@ I am Emillia-rosette Nlandu, my friends call me Emillia (with two 'lls' 😊).  
 - A few communities I am part of:
     - 👩🏿‍💻 Google Cloud Innovators & Developers: https://developers.google.com/profile/u/me
     - 💁🏿‍♀️ Women Techmakers: https://developers.google.com/profile/u/me
-    - 🕵🏿‍♀️ Locally Optimistic: locallyoptimistic.slack.com
-    - 🐍 PyLadies: pyladies.slack.com
-    - 🌎 AI Researchers and Enthusiasts: ai-researchers.slack.com
+    - 🕵🏿‍♀️ Locally Optimistic: (locallyoptimistic.slack.com)
+    - 🐍 PyLadies: (pyladies.slack.com)
+    - 🌎 AI Researchers and Enthusiasts: (ai-researchers.slack.com)
 
 
 
