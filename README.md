@@ -1,10 +1,18 @@
 ### Hi there 👋,
 
-I am Emillia-rosette Nlnadu, my friends call me Emillia (with two 'lls' 😊).  Let me take you on a deep dive into my tech journey up to this point: 
+I am Emillia-rosette Nlandu, my friends call me Emillia (with two 'lls' 😊).  Let me take you on a deep dive into my tech journey up to this point: 
 
-- 🚀 I've dedicated the first six years of my career to crafting innovative solutions, gaining expertise across software development, customer success & enterprise technical support engineering, and cloud platforms. 
+- 🚀 Over the initial six years of my career, I've devoted myself to the art of creating innovative solutions, accumulating expertise in diverse domains including software development, customer success, enterprise technical support engineering, and cloud platforms. 
 
-- 🔍 I'm currently pursuing a PhD research degree in Artificial Intelligence at Kingston University with a focus on "Data-Driven Strategies for Urban Planning Coordination". The research looks into Traffic Prediction Optimization and roadwork Impact Assessment to enhance Traffic Prediction Accuracy, reduce Traffic Congestion and create a framework for assessing the impact of ongoing roadwork projects on traffic flow to foster collaboration between city departments and urban planning entities. 
+- 🔍 I'm presently engaged in a PhD research program in Artificial Intelligence at Kingston University, where my research is centred on 'Data-Driven Strategies for Urban Planning Coordination.' Within this framework, I'm exploring Traffic Prediction Optimization and Roadwork Impact Assessment to elevate the precision of traffic forecasts, alleviate traffic congestion, and establish a framework for evaluating the influence of ongoing roadwork projects on traffic flow. This research also emphasizes the importance of fostering collaboration between city departments and urban planning entities for more efficient urban planning and traffic management.
+- Outside the realm of my professional journey, I am a passionate champion for diversity within the tech industry. In furtherance of this mission, I assume a leadership role at Cheetah Code Academy, where I spearhead coding bootcamps. These programs are designed to mentor and instruct individuals from diverse, minority heritage backgrounds, equipping them with the skills and knowledge needed to unlock the vast world of coding and break into the dynamic tech industry.
+
+- A few communities I am part of:
+👩🏿‍💻 Google Cloud Innovators & Developers: https://developers.google.com/profile/u/me
+💁🏿‍♀️ Women Techmakers: https://developers.google.com/profile/u/me
+🕵🏿‍♀️ Locally Optimistic: locallyoptimistic.slack.com
+🐍 PyLadies: pyladies.slack.com
+🌎 AI Researchers and Enthusiasts: ai-researchers.slack.com
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emillia-rosette&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
