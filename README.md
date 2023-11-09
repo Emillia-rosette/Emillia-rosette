@@ -9,7 +9,7 @@ I am Emillia-rosette Nlandu, my friends call me Emillia (with two 'lls' 😊).  
 
 - A few communities I am part of:
     - 👩🏿‍💻 Google Cloud Innovators & Developers: https://g.dev/emilliarosette
-    - ☁️ AAWS CloudUp for Her - Solutions Architect Associate
+    - ☁️ AWS CloudUp for Her - Solutions Architect Associate
     - 💁🏿‍♀️ Women Techmakers: https://developers.google.com/profile/u/me
     - 🕵🏿‍♀️ Locally Optimistic: (locallyoptimistic.slack.com)
     - 🐍 PyLadies: (pyladies.slack.com)
