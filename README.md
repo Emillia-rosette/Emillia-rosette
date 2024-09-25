@@ -1,19 +1,9 @@
 ### 
 
-Hi, I'm Emillia-rosette ((with two 'lls' 😊 | ‘Em-i-lee-a’ 'rō-zĕt′), a passionate Data Scientist and Cloud Solutions Specialist. I love working on innovative projects that blend data science and cloud technologies to solve problems. From building scalable data pipelines to deploying machine learning models in the cloud, I thrive on creating practical solutions that drive meaningful insights and results. I'm always exploring new technologies and best practices in data science, cloud infrastructure, and big data, with a focus on delivering scalable and efficient solutions. Check out my projects to see how I bring data-driven approaches to life through a combination of cloud and data science expertise. Let’s collaborate and create something amazing together!
+Hi, Emillia-rosette ((with two 'lls' 😊 | ‘Em-i-lee-a’ 'rō-zĕt′) here, 
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emillia-rosette&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+- 😄 I am a passionate Data Scientist and Cloud Solutions Specialist. I love working on innovative projects that blend data science and cloud technologies to solve problems.
+- 🌱 From building scalable data pipelines to deploying machine learning models in the cloud, I thrive on creating practical solutions that drive meaningful insights and results.
+- 🔭 Check out my projects to see how I bring data-driven approaches to life through a combination of cloud and data science expertise. Let’s collaborate and create something amazing together!
 
-<!--
-**Emillia-rosette/Emillia-rosette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
