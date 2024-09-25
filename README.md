@@ -1,18 +1,4 @@
-### Hi there 👋🏿,
-
-I am Emillia-rosette Nlandu-Nzinga, my friends call me Emillia (with two 'lls' 😊 | ‘Em-i-lee-a’ 'rō-zĕt′). Here are a few things about me: 
-
-- 🔍 I'm presently engaged in a PhD research program in Artificial Intelligence at Kingston University(click [here](https://www.kingston.ac.uk/research/research-degrees/research-degree-students/profile/emillia-rosette-nlandu-nzinga-415/) for bio), where my research is centred on 'Data-Driven Strategies for Urban Planning Coordination.' Within this framework, I'm exploring Traffic Prediction Optimization and Roadwork Impact Assessment to elevate the precision of traffic forecasts, alleviate traffic congestion, and establish a framework for evaluating the influence of ongoing roadwork projects on traffic flow.
-- Some of my  contributions to open-source projects can be found on platforms like [Medium](https://medium.com/@emillianlandu), where I actively engage with the community, as well as on [Stack Overflow](https://stackoverflow.com/users/9870311/emillia-rosette-nlandu) where I've asked and shared knowledge. Additionally, you can explore my research contributions on [ResearchGate](https://www.researchgate.net/profile/Emillia-Rosette-Nlandu-Nzinga), where I've shared insights and findings from my academic endeavours.
-
-- A few communities I am part of:
-    - 👩🏿‍💻 Google Cloud Innovators & Developers: https://g.dev/emilliarosette
-    - 🕵🏿‍♀️ Locally Optimistic: (locallyoptimistic.slack.com)
-    - 🐍 PyLadies: (pyladies.slack.com)
-    - 🌎 AI Researchers and Enthusiasts: (ai-researchers.slack.com)
-
-
-
+### Hi, I'm Emillia-rosette ((with two 'lls' 😊 | ‘Em-i-lee-a’ 'rō-zĕt′), a passionate Data Scientist and Cloud Solutions Specialist. I love working on innovative projects that blend data science and cloud technologies to solve problems. From building scalable data pipelines to deploying machine learning models in the cloud, I thrive on creating practical solutions that drive meaningful insights and results. I'm always exploring new technologies and best practices in data science, cloud infrastructure, and big data, with a focus on delivering scalable and efficient solutions. Check out my projects to see how I bring data-driven approaches to life through a combination of cloud and data science expertise. Let’s collaborate and create something amazing together!
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emillia-rosette&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
