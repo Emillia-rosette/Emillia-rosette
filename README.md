@@ -2,8 +2,7 @@
 
 Hi, Emillia-rosette ((with two 'lls' 😊 | ‘Em-i-lee-a’ 'rō-zĕt′) here, 
 
-- 😄 I am a passionate Data Scientist and Cloud Solutions Specialist. I love working on innovative projects that blend data science and cloud technologies to solve problems.
-- 🌱 From building scalable data pipelines to deploying machine learning models in the cloud, I thrive on creating practical solutions that drive meaningful insights and results.
+- 😄 I am a passionate junior data scientist with a foundation in cloud solutions. Currently, I am advancing my expertise in artificial intelligence as part of my PhD research at Kingston University. My research focuses on Traffic Flow Prediction, using machine learning and time-series analysis to forecast congestion patterns across UK regions.
 - 🔭 Check out my projects to see how I bring data-driven approaches to life through a combination of cloud and data science expertise. Let’s collaborate and create something amazing together!
 
 
