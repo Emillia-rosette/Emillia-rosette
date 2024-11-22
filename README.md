@@ -2,7 +2,7 @@
 
 Hi, Emillia-rosette ((with two 'lls' 😊 | ‘Em-i-lee-a’ 'rō-zĕt′) here, 
 
-  😄 I am a Cloud & Big Data Enthusiast with a passion for enhancing customer experiences and driving product adoption
+  😄 I am a Solutions Specialist with a passion for enhancing customer experiences and driving product adoption
   
   🚀 Currently, I am advancing my expertise in Artificial Intelligence as part of my PhD research at Kingston University. My research focuses on Traffic Flow Prediction, utilizing machine learning and time-series analysis to forecast congestion patterns across UK regions.
 
